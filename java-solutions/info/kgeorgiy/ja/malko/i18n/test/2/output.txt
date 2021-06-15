@@ -1,0 +1,16 @@
+Overall statistics
+	Number of sentences: 0.
+	Number of words: 0.
+	Number of numbers: 0.
+	Number of currencies: 0.
+	Number of dates: 0.
+Sentences statistics
+	Number of sentences: 0 (0 unique values).
+Words statistics
+	Number of words: 0 (0 unique values).
+Numbers statistics
+	Number of numbers: 0 (0 unique values).
+Currencies statistics
+	Number of currencies: 0 (0 unique values).
+Dates statistics
+	Number of dates: 0 (0 unique values).

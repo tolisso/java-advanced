@@ -1,0 +1,45 @@
+Overall statistics
+	Number of sentences: 17.
+	Number of words: 309.
+	Number of numbers: 19.
+	Number of currencies: 2.
+	Number of dates: 2.
+Sentences statistics
+	Number of sentences: 17 (17 unique values).
+	Minimum value of sentence: "(Genesis 12:2-3)
+
+Abraham’s name became Great
+Audio Player
+
+Jan 23, 2000
+Jan 25, 2000
+¤1
+¤1,000,000.00
+Use Up/Down Arrow keys to increase or decrease volume.
+".
+	Maximum value of sentence: "Why? ".
+	Minimum length of sentence: 5 ("Why? ").
+	Maximum length of sentence: 177 ("A look at Israel’s history in the book of Genesis in the Bible reveals that 4000 years ago a man, who is now very well known, went on a camping trip in that part of the world.  ").
+	Average length of sentence: 100.118.
+Words statistics
+	Number of words: 309 (158 unique values).
+	Minimum value of word: "a".
+	Maximum value of word: "your".
+	Minimum length of word: 1 ("a").
+	Maximum length of word: 11 ("surrounding").
+	Average length of word: 4.11.
+Numbers statistics
+	Number of numbers: 19 (16 unique values).
+	Minimum value of number: 1.
+	Maximum value of number: 4,000.
+	Average value of number: 442.632.
+Currencies statistics
+	Number of currencies: 2 (2 unique values).
+	Minimum value of currency: ¤1.00.
+	Maximum value of currency: ¤1,000,000.00.
+	Average currency: ¤500,000.50.
+Dates statistics
+	Number of dates: 2 (2 unique values).
+	Minimum value of date: January 23, 2000.
+	Maximum value of date: January 25, 2000.
+	Average value of date: January 24, 2000.
